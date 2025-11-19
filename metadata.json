@@ -1,0 +1,5 @@
+{
+  "name": "BnB Coin Selection Visualizer",
+  "description": "An interactive, step-by-step visualization of the Branch and Bound algorithm used in Bitcoin Core for coin selection.",
+  "requestFramePermissions": []
+}
